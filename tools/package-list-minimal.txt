@@ -1,0 +1,13 @@
+add-ons;addon-google_apis-google-24
+add-ons;addon-google_gdk-google-19
+build-tools;26.0.2
+cmake;3.6.4111459
+extras;android;m2repository
+extras;google;google_play_services
+extras;google;m2repository
+extras;google;simulators
+extras;m2repository;com;android;support;constraint;constraint-layout;1.0.2
+extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.2
+lldb;2.3
+platforms;android-26
+sources;android-25
